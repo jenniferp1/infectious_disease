@@ -65,8 +65,11 @@
 # Jupyter notebook
 *.ipynb  text
 
+
 *.md linguist-detectable=true
-*.md linguis-language=Python
+README.md linguist-detectable=false
+readme.md linguist-detectable=false
+*.md linguist-language=Python
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
