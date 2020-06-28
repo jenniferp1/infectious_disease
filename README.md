@@ -2,4 +2,4 @@
 Modeling infectious disease
 
 ## Course 1
-- (branch) CovidDataAnalysis
+- (branch) [CovidDataAnalysis](https://github.com/jenniferp1/infectious_disease/tree/CovidDataAnalysis)
